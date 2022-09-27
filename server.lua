@@ -1,3 +1,3 @@
 Citizen.CreateThread(function()
-  print("Hello World")
+  print("Working")
 end)
